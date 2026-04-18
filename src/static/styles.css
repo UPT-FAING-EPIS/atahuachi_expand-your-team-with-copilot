@@ -70,7 +70,7 @@
   font-size: 1rem;
   cursor: pointer;
   border: none;
-  color: white;
+  color: var(--primary-text);
   transition: background-color 0.2s;
   margin-right: 8px;
 }
